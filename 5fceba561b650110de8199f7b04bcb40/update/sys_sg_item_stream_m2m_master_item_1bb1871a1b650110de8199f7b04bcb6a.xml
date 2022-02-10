@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Doggo Item Stream">1fb1871a1b650110de8199f7b04bcb69</item_stream>
+        <master_item display_value="Doggo master_item">17b1871a1b650110de8199f7b04bcb6a</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-10 23:10:02</sys_created_on>
+        <sys_id>1bb1871a1b650110de8199f7b04bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DogGo" source="x_185691_doggo">5fceba561b650110de8199f7b04bcb40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DogGo">5fceba561b650110de8199f7b04bcb40</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_1bb1871a1b650110de8199f7b04bcb6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-10 23:10:02</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

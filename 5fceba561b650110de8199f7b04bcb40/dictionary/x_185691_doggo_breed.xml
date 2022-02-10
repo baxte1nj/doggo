@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Doggo Breed" max_length="40" name="x_185691_doggo_breed" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Size" max_length="40" name="size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Extra Extra Large" value="xxl"/>
+                <element inactive_on_update="false" label="Extra Large" value="xl"/>
+                <element inactive_on_update="false" label="Extra Small" value="xs"/>
+                <element inactive_on_update="false" label="Large" value="l"/>
+                <element inactive_on_update="false" label="Medium" value="m"/>
+                <element inactive_on_update="false" label="Small" value="s"/>
+            </choice>
+        </element>
+    </element>
+</database>
