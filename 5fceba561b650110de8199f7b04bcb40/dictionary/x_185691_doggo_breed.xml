@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Doggo Breed" max_length="40" name="x_185691_doggo_breed" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="100" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Size" max_length="40" name="size" type="choice">
             <choice>

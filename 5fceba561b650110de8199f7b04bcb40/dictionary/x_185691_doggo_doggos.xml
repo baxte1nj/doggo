@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Doggo" max_length="40" name="x_185691_doggo_doggos" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Birthday" max_length="40" name="birthday" type="glide_date"/>
+        <element label="Breed(s)" max_length="4000" name="breeds" reference="x_185691_doggo_breed" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="gender" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Female" value="female"/>
@@ -9,5 +10,6 @@
         </element>
         <element label="Mutt" max_length="40" name="mutt" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element label="Parent(s)" mandatory="true" max_length="4000" name="parents" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="glide_list"/>
     </element>
 </database>

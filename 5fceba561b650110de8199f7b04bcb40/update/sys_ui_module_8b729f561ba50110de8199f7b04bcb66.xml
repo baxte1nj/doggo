@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Trait(s)">4b729f561ba50110de8199f7b04bcb63</application>
+        <filter/>
+        <name>Trait(s)</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_185691_doggo.trait_s_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-11 00:23:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b729f561ba50110de8199f7b04bcb66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trait(s)</sys_name>
+        <sys_package display_value="DogGo" source="x_185691_doggo">5fceba561b650110de8199f7b04bcb40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DogGo">5fceba561b650110de8199f7b04bcb40</sys_scope>
+        <sys_update_name>sys_ui_module_8b729f561ba50110de8199f7b04bcb66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-11 00:23:12</sys_updated_on>
+        <table>x_185691_doggo_trait_s</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
